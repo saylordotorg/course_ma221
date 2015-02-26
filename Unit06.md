@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA221: Differential Equations"
+course_description: "An introduction to the fundamentals behind numerical solutions and Ordinary Differential Equations, with a goal of moving from a microscopic view of relevant physics to a macroscopic view of the behavior of a system as a whole."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Numerical Methods** <span id="6"></span> 
 *Until now, we have studied particular kinds of equations for which we
 have methods to find analytical solutions.  In most cases, however, it

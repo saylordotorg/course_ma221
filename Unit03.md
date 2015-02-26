@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA221: Differential Equations"
+course_description: "An introduction to the fundamentals behind numerical solutions and Ordinary Differential Equations, with a goal of moving from a microscopic view of relevant physics to a macroscopic view of the behavior of a system as a whole."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Higher-Order Linear ODEs** <span id="3"></span> 
 *While one can always convert a higher-order ODE into a system of
 first-order ODEs, this is not always the best approach toward solving

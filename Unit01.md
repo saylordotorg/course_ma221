@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA221: Differential Equations"
+course_description: "An introduction to the fundamentals behind numerical solutions and Ordinary Differential Equations, with a goal of moving from a microscopic view of relevant physics to a macroscopic view of the behavior of a system as a whole."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Introduction to Ordinary Differential Equations** <span
 id="1"></span> 
 *In this unit, we will examine ODEs, their use, and their types.  We

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA221: Differential Equations"
+course_description: "An introduction to the fundamentals behind numerical solutions and Ordinary Differential Equations, with a goal of moving from a microscopic view of relevant physics to a macroscopic view of the behavior of a system as a whole."
+next: ../../../
+previous: ../Unit07
+---
 **Unit 8: Final Exam** <span id="8"></span> 
 -   **Final Exam: The Saylor Foundation's "MA221 Final Exam"**
     Link: The Saylor Foundation's "[MA221 Final

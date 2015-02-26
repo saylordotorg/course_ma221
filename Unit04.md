@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA221: Differential Equations"
+course_description: "An introduction to the fundamentals behind numerical solutions and Ordinary Differential Equations, with a goal of moving from a microscopic view of relevant physics to a macroscopic view of the behavior of a system as a whole."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Systems of Linear Differential Equations** <span
 id="4"></span> 
 *In the previous units, we worked with differential equations with one

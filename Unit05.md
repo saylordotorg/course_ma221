@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA221: Differential Equations"
+course_description: "An introduction to the fundamentals behind numerical solutions and Ordinary Differential Equations, with a goal of moving from a microscopic view of relevant physics to a macroscopic view of the behavior of a system as a whole."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Integral Transforms** <span id="5"></span> 
 *Integral transforms form another class of tools that can be used to
 convert linear differential equations into algebraic equations.  An

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA221: Differential Equations"
+course_description: "An introduction to the fundamentals behind numerical solutions and Ordinary Differential Equations, with a goal of moving from a microscopic view of relevant physics to a macroscopic view of the behavior of a system as a whole."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: First Order ODEs** <span id="2"></span> 
 *In this unit, we examine the simplest class of ODEs: the linear
 first-order ODEs.  There are at least three reasons for starting here. 
