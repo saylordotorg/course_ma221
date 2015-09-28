@@ -125,3 +125,4 @@ computer.
 - [Unit 6](https://legacy.saylor.org/ma221/Unit06/)
 - [Unit 7](https://legacy.saylor.org/ma221/Unit07/)
 - [Unit 8](https://legacy.saylor.org/ma221/Unit08/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/MA/MA221/MA221-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/MA/MA221/MA221-FinalExam-Answers.html)
