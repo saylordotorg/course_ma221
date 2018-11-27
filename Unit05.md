@@ -91,14 +91,14 @@ Upon successful completion of this unit, the student will be able to:
     Properties and Formulas”**
     Link: MIT: Professor Arthur Mattuck’s *18.03 Notes and Exercises*:
     “Exercises”: “Laplace Transform”: “[3A Elementary Properties and
-    Formulas](http://www.saylor.org/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Laplace-Transform-Questions.pdf)”
+    Formulas](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Laplace-Transform-Questions.pdf)”
     (PDF)  
         
      Instructions: Please click on the PDF linked above.  Work with
     exercises 3A-1, 3A-2, 3A-4, 3A-5, 3A-7, 3A-8, and 3A-9.   When you
     finish, please check your answers to these exercises with “[Section
     3
-    Solutions.”](http://www.saylor.org/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Laplace-Transform-Solutions.pdf)  
+    Solutions.”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Laplace-Transform-Solutions.pdf)  
         
      Terms of Use: Please respect the copyright and terms of use
     displayed on the webpages above.
@@ -180,13 +180,13 @@ Upon successful completion of this unit, the student will be able to:
     Properties and Formulas”**
     Link: MIT: Professor Arthur Mattuck’s *18.03 Notes and Exercises*:
     “Exercises”: “Laplace Transform”: “[3A Elementary Properties and
-    Formulas](http://www.saylor.org/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Laplace-Transform-Questions.pdf)”
+    Formulas](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Laplace-Transform-Questions.pdf)”
     (PDF)  
         
      Instructions: Please click on the PDF linked above.  Work with
     exercises 3A-3 and 3A-10.   When you finish, please check your
     answers to these exercises with “[Section 3
-    Solutions](http://www.saylor.org/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Laplace-Transform-Solutions.pdf).”  
+    Solutions](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Laplace-Transform-Solutions.pdf).”  
         
      Terms of Use: Please respect the copyright and terms of use
     displayed on the webpages above.
@@ -284,13 +284,13 @@ id="5.4"></span> 
     Formulas; Solving ODE’s”**
     Link: MIT: Professor Arthur Mattuck’s *18.03 Notes and Exercises*:
     “Exercises”: “Laplace Transform”: “[3B. Derivative Formulas; Solving
-    ODE’s](http://www.saylor.org/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Laplace-Transform-Questions.pdf)”
+    ODE’s](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Laplace-Transform-Questions.pdf)”
     (PDF)  
         
      Instructions: Please click on the PDF linked above. Work with
     exercises 3B-1, 3B-3, 3B-4, 3B-5 and 3B-6.   When you finish, please
     check your answers to these exercises with “[Section 3
-    Solutions](http://www.saylor.org/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Laplace-Transform-Solutions.pdf).”  
+    Solutions](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Laplace-Transform-Solutions.pdf).”  
         
      Terms of Use: Please respect the copyright and terms of use
     displayed on the webpages above.
@@ -300,13 +300,13 @@ id="5.4"></span> 
     Functions”**
     Link: MIT: Professor Arthur Mattuck’s *18.03 Notes and Exercises*:
     “Exercises”: “Laplace Transform”: “[3C. Discontinuous
-    Functions](http://www.saylor.org/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Laplace-Transform-Questions.pdf)”
+    Functions](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Laplace-Transform-Questions.pdf)”
     (PDF)  
         
      Instructions: Please click on the PDF linked above.  Work with
     exercises 3C-1, 3C-2, 3C-3, 3C-4 and 3C-5.   When you finish, please
     check your answers to these exercises with “[Section 3
-    Solutions](http://www.saylor.org/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Laplace-Transform-Solutions.pdf).”   
+    Solutions](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Laplace-Transform-Solutions.pdf).”   
         
      Terms of Use: Please respect the copyright and terms of use
     displayed on the webpages above.
@@ -316,14 +316,14 @@ id="5.4"></span> 
     Delta Function”**
     Link: MIT: Professor Arthur Mattuck’s *18.03 Notes and Exercises*:
     “Exercises”: “Laplace Transform”: “[3D. Convolution and Delta
-    Function](http://www.saylor.org/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Laplace-Transform-Questions.pdf)”
+    Function](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Laplace-Transform-Questions.pdf)”
     (PDF)  
         
      Instructions: Please click on the PDF linked above. Work with
     exercises 3D-1, 3D-2, 3D-3, 3D-4, 3D-5, 3D-6, 3D-7, and 3D-8.   When
     you finish, please check your answers to these exercises with
     “[Section 3
-    Solutions](http://www.saylor.org/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Laplace-Transform-Solutions.pdf).”  
+    Solutions](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Laplace-Transform-Solutions.pdf).”  
         
      Terms of Use: Please respect the copyright and terms of use
     displayed on the webpages above.  

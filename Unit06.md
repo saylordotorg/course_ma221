@@ -36,7 +36,7 @@ Upon successful completion of this unit, the student will be able to:
 **6.1 Verlet Integration** <span id="6.1"></span> 
 -   **Reading: Wikipedia’s “Verlet Integration”**
     Link: Wikipedia’s “[Verlet
-    Integration](http://www.saylor.org/site/wp-content/uploads/2011/06/MA221-6.1.pdf)”
+    Integration](https://resources.saylor.org/archived/wp-content/uploads/2011/06/MA221-6.1.pdf)”
     (PDF)  
         
      Instructions: Click on the link above and read the entire
@@ -51,7 +51,7 @@ Upon successful completion of this unit, the student will be able to:
 **6.2 Predictor-Corrector Methods** <span id="6.2"></span> 
 -   **Reading: Wikipedia’s “Predictor-Corrector Method”**
     Link: Wikipedia’s “[Predictor-Corrector
-    Method](http://www.saylor.org/site/wp-content/uploads/2011/06/MA221-6.2.pdf)”
+    Method](https://resources.saylor.org/archived/wp-content/uploads/2011/06/MA221-6.2.pdf)”
     (PDF)  
         
      Instructions: Click on the link above and read the entire
@@ -86,12 +86,12 @@ Upon successful completion of this unit, the student will be able to:
     Link: Furman University: Dan Sloughter’s *Difference Equations to
     Differential Equations: *“Chapter 8: Differential Equations”:
     [“Section 8.1: Numerical Solutions of Differential
-    Equations”](http://www.saylor.org/site/wp-content/uploads/2011/06/MA221-6.3.pdf)
+    Equations”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/MA221-6.3.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/08/MA221-6.3-Dan-Sloughter.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA221-6.3-Dan-Sloughter.epub)  
       
      Instructions: Click on the link above and scroll down to “Chapter
     8: Differential Equations.”  Then click on the link for “Numerical
@@ -112,12 +112,12 @@ Upon successful completion of this unit, the student will be able to:
     Link: Furman University: Dan Sloughter’s *Difference Equations to
     Differential Equations:*“Chapter 8: Differential Equations”:
     “Section 8.1: Numerical Solutions of Differential Equations”:
-    [“Problems”](http://www.saylor.org/site/wp-content/uploads/2011/06/MA221-6.3.pdf)
+    [“Problems”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/MA221-6.3.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/08/MA221-6.3-Dan-Sloughter.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA221-6.3-Dan-Sloughter.epub)  
       
      Instructions: Click on the link above and scroll down to “Chapter
     8: Differential Equations.”  Then click on the link for “Numerical
@@ -139,7 +139,7 @@ Upon successful completion of this unit, the student will be able to:
 id="6.4"></span> 
 -   **Reading: Wapedia’s “Wiki: Linear Multistep Method”**
     Link: Wapedia’s “[Wiki: Linear Multistep
-    Method](http://www.saylor.org/site/wp-content/uploads/2011/06/MA221-6.4.pdf)”
+    Method](https://resources.saylor.org/archived/wp-content/uploads/2011/06/MA221-6.4.pdf)”
     (PDF)  
         
      Instructions: Click on the link above and read the entire
