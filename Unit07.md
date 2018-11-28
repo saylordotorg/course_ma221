@@ -42,13 +42,13 @@ Upon successful completion of this unit, the student will be able to:
     Order Methods”**
     Link: MIT: Professor Arthur Mattuck’s *18.03 Notes and Exercises*:
     “Exercises”: “First Order ODE’s”: “[1B. Standard First Order
-    Methods](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-First-Order-ODEs-Questions.pdf)”
+    Methods](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-First-Order-ODEs-Questions.pdf)”
     (PDF)  
         
      Instructions: Please click on the PDF linked above and go to page
     2.  Work with all items in exercises 1B-10.  When you finish, please
     check your answers to this exercise with “[Section 1
-    Solutions.](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-First-Order-ODEs-Solutionspdf.pdf)”  
+    Solutions.](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-First-Order-ODEs-Solutionspdf.pdf)”  
         
      Terms of Use: Please respect the copyright and terms of use
     displayed on the webpages above.
@@ -90,7 +90,7 @@ Upon successful completion of this unit, the student will be able to:
 **7.5 Chaotic Dynamics – The Double Pendulum** <span id="7.5"></span> 
 -   **Reading: Wikipedia’s “Double Pendulum”**
     Link: Wikipedia’s “[Double
-    Pendulum](https://resources.saylor.org/archived/wp-content/uploads/2011/06/MA221-7.5.pdf)”
+    Pendulum](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/MA221-7.5.pdf)”
     (PDF)  
         
      Instructions: Click on the link above and read the entire

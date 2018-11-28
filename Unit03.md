@@ -170,14 +170,14 @@ id="3.1.4"></span> 
     Link: MIT: Professor Arthur Mattuck’s *18.03 Notes and Exercises*:
     “Exercises”: “Higher-Order ODE’s”: “[2F. Linear Operators and Higher
     Order
-    ODE’s](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Higer-Order-Linear-ODEs-Questions.pdf)”
+    ODE’s](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Higer-Order-Linear-ODEs-Questions.pdf)”
     (PDF)  
         
      Instructions: Please click on the link above and go to page 6. 
     Work with exercise 2F-1 (items c, d, e, and f,); exercise 2F-2; and
     exercise 2F-3, item d.  When you finish, please check your answers
     with “[Section II
-    Solutions](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Higer-Order-Linear-ODEs-Solutions.pdf)”   
+    Solutions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Higer-Order-Linear-ODEs-Solutions.pdf)”   
         
      Terms of Use: Please respect the copyright and terms of use
     displayed on the webpages above.
@@ -208,13 +208,13 @@ id="3.2.1"></span> 
     Linear ODE’s”: “2.3 Higher Order Linear ODE’s”**
     Link: Jirka.org: Jiri Lebl’s *Notes on Diffy Qs*: “Higher Order
     Linear ODE’s”: [“2.3 Higher Order Linear
-    ODE’s”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/MA221-book.pdf)
+    ODE’s”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/MA221-book.pdf)
     (PDF)  
         
      Also available in:  
      [HTML](http://www.jirka.org/diffyqs/htmlver/diffyqs.html)  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA221-book-Notes-on-Diffy-Qs-Jiri-Lebl.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA221-book-Notes-on-Diffy-Qs-Jiri-Lebl.epub)  
         
      Instructions: Click on the link above and then click on the link
     that says “Download the book as PDF.”  Go to page 57.   Please read
@@ -251,13 +251,13 @@ id="3.2.1"></span> 
     Link: MIT: Professor Arthur Mattuck’s *18.03 Notes and Exercises*:
     “Exercises”: “Higher-Order ODE’s”: “[2C. Second Order Linear ODE’s
     with Constant
-    Coefficients](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Higer-Order-Linear-ODEs-Questions.pdf)”
+    Coefficients](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Higer-Order-Linear-ODEs-Questions.pdf)”
     (PDF)  
         
      Instructions: Please click on the link above and go to page 3. 
     Work with exercises 2C-1 and 2C-2.  When you finish, please check
     your answers with “[Section II
-    Solutions](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Higer-Order-Linear-ODEs-Solutions.pdf)”   
+    Solutions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Higer-Order-Linear-ODEs-Solutions.pdf)”   
         
      Terms of Use: Please respect the copyright and terms of use
     displayed on the webpages above.
@@ -286,7 +286,7 @@ id="3.2.2"></span> 
     Link: Caltech: Sean Mauch’s *Introduction to Methods of Applied
     Mathematics*: “[Ordinary Differential Equations”: “Chapter
     17”: “17.7 Additional
-    Exercises](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Unit-3.2.2-intro-to-methods-of-applied-math-mauch-anti-copyright.pdf)” (PDF)  
+    Exercises](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MA221-Unit-3.2.2-intro-to-methods-of-applied-math-mauch-anti-copyright.pdf)” (PDF)  
         
      Instructions: Please click on the link above and go to page 955.
     Work on exercises 17.18, 17.19, 17.20, and 17.21.  After finishing
@@ -368,7 +368,7 @@ id="3.2.2"></span> 
     Exercises: “Notes”: “Linear Differential Operators”**
     Link: MIT: Professor Arthur Mattuck’s *18.03 Notes and Exercises*:
     “Notes”: “[Linear Differential
-    Operators](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Unit-3.2.4.1-Reading-Mattuck-Linear-Differential-Operators.pdf)”
+    Operators](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MA221-Unit-3.2.4.1-Reading-Mattuck-Linear-Differential-Operators.pdf)”
     (PDF)  
         
      Instructions: Please click on the link above and read pages 1 to 5
@@ -383,14 +383,14 @@ id="3.2.2"></span> 
     Link: MIT: Professor Arthur Mattuck’s *18.03 Notes and Exercises*:
     “Exercises”: “Higher-Order ODE’s”:  “[2F. Linear Operators and
     Higher Order
-    ODE’s](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Higer-Order-Linear-ODEs-Questions.pdf)”
+    ODE’s](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Higer-Order-Linear-ODEs-Questions.pdf)”
     (PDF)  
         
      Instructions: Please click on the PDF linked above and go to page
     6. Work with exercise 2F-1 items “a” and “b”, and exercise 2F-3
     items “a” and “b”.   When you finish, please check your answers for
     these exercises with “[Section II
-    Solutions](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Higer-Order-Linear-ODEs-Solutions.pdf).”   
+    Solutions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Higer-Order-Linear-ODEs-Solutions.pdf).”   
         
      Terms of Use: Please respect the copyright and terms of use
     displayed on the webpages above.
@@ -453,13 +453,13 @@ id="3.2.4.2"></span> 
     Link: MIT: Professor Arthur Mattuck’s *18.03 Notes and Exercises*:
     “Exercises”: “Higher-Order ODE’s”: “[2C. Second Order Linear ODE’s
     with Constant
-    Coefficients](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Higer-Order-Linear-ODEs-Questions.pdf)”
+    Coefficients](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Higer-Order-Linear-ODEs-Questions.pdf)”
     (PDF)  
         
      Instructions: Please click on the PDF linked above and go to page
     3.  Work with exercises 2C-7 and 2C-8 on page 3.   When you finish,
     please check your answers for these exercises with “[Section II
-    Solutions](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Higer-Order-Linear-ODEs-Solutions.pdf).”  
+    Solutions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Higer-Order-Linear-ODEs-Solutions.pdf).”  
         
      Terms of Use: Please respect the copyright and terms of use
     displayed on the webpages above.
@@ -470,13 +470,13 @@ id="3.2.4.2"></span> 
     Link: MIT: Professor Arthur Mattuck’s *18.03 Notes and Exercises*:
     “Exercises”: “Higher-Order ODE’s”:  “[2F. Linear Operators and
     Higher Order
-    ODE’s](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Higer-Order-Linear-ODEs-Questions.pdf)”
+    ODE’s](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Higer-Order-Linear-ODEs-Questions.pdf)”
     (PDF)  
         
      Instructions: Please click on the PDF linked above and go to page
     6. Work with exercise 2F-6.   When you finish, please check your
     answers to this exercise with “[Section II
-    Solutions.](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Higer-Order-Linear-ODEs-Solutions.pdf)”  
+    Solutions.](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Higer-Order-Linear-ODEs-Solutions.pdf)”  
         
      Terms of Use: Please respect the copyright and terms of use
     displayed on the webpages above.
@@ -519,13 +519,13 @@ id="3.2.4.2"></span> 
     Parameters”**
     Link: MIT: Professor Arthur Mattuck’s *18.03 Notes and Exercises*:
     “Exercises”: “Higher-Order ODE’s”: “[2D. Variation of
-    Parameters](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Higer-Order-Linear-ODEs-Questions.pdf)”
+    Parameters](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Higer-Order-Linear-ODEs-Questions.pdf)”
     (PDF)  
         
      Instructions: Please click on the PDF linked above and go to page
     4.  Work with exercises 2D-1 and 2D-2 on page 4.  When you finish,
     please check your answers to these exercises with “[Section II
-    Solutions.”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Higer-Order-Linear-ODEs-Solutions.pdf)  
+    Solutions.”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Higer-Order-Linear-ODEs-Solutions.pdf)  
         
      Terms of Use: Please respect the copyright and terms of use
     displayed on the webpages above.
@@ -591,13 +591,13 @@ id="3.3"></span> 
     Methods”: “7.1 Power Series”**
     Link: Jirka.org: Jiri Lebl’s *Notes on Diffy Qs*: “Power Series
     Methods”: [“7.1 Power
-    Series”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/MA221-book.pdf)
+    Series”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/MA221-book.pdf)
     (PDF)  
         
      Also available in:  
      [HTML](http://www.jirka.org/diffyqs/htmlver/diffyqs.html)  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA221-book-Notes-on-Diffy-Qs-Jiri-Lebl.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA221-book-Notes-on-Diffy-Qs-Jiri-Lebl.epub)  
       
      Instructions: Click on the link above and then click on the link
     that says “Download the book as PDF.”  Go to page 261.   Please read

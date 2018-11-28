@@ -49,13 +49,13 @@ to:
     Introduction to Differential Equations”**
     Link: Jirka.org: Jiri Lebl’s *Notes on Diffy Qs*: [“0.2 Introduction
     to Differential
-    Equations”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/MA221-book.pdf) 
+    Equations”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/MA221-book.pdf) 
     (PDF)  
         
      Also available in:  
      [HTML](http://www.jirka.org/diffyqs/htmlver/diffyqs.html)  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA221-book-Notes-on-Diffy-Qs-Jiri-Lebl.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA221-book-Notes-on-Diffy-Qs-Jiri-Lebl.epub)  
         
      Instructions: Click on the link above and then click on the link
     that says “Download the book as PDF.”  Please only read the content
@@ -105,13 +105,13 @@ to:
     Introduction to Differential Equations”**
     Link: Jirka.org: Jiri Lebl’s *Notes on Diffy Qs*: [“0.2 Introduction
     to Differential
-    Equations”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/MA221-book.pdf)
+    Equations”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/MA221-book.pdf)
     (PDF)  
         
      Also available in:  
      [HTML](http://www.jirka.org/diffyqs/htmlver/diffyqs.html)  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA221-book-Notes-on-Diffy-Qs-Jiri-Lebl.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA221-book-Notes-on-Diffy-Qs-Jiri-Lebl.epub)  
         
      Instructions: Click on the link above and then click on the link
     that says “Download the book as PDF.”  Please only read the content
@@ -127,7 +127,7 @@ to:
     “Chapter 1”**
     Link: MIT: Professor Haynes Miller’s *18.03 Supplementary Notes*:
     “[Chapter
-    1](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Unit-1.3-Reading-Miller-Notes-Ch1.pdf)”
+    1](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MA221-Unit-1.3-Reading-Miller-Notes-Ch1.pdf)”
     (PDF)  
         
      Instructions: Click on the PDF linked above and read the whole
