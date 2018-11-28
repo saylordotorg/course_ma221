@@ -41,13 +41,13 @@ Upon successful completion of this unit, the student will be able to:
     ODEs”: “3.1 Introduction to Systems of ODEs”**
     Link: Jirka.org: Jiri Lebl’s *Notes on Diffy Qs*: “Systems of ODEs”:
     [“3.1 Introduction to Systems of
-    ODEs”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/MA221-book.pdf)
+    ODEs”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/MA221-book.pdf)
     (PDF)  
         
      Also available in:  
      [HTML](http://www.jirka.org/diffyqs/htmlver/diffyqs.html)  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA221-book-Notes-on-Diffy-Qs-Jiri-Lebl.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA221-book-Notes-on-Diffy-Qs-Jiri-Lebl.epub)  
         
      Instructions: Click on the link above and then click on the link
     that says “Download the book as PDF.”  Go to page 85 and read the
@@ -66,12 +66,12 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Scholarpedia.org: Frank Hoppensteadt’s “Predator-Prey
     Model”**
     Link: Scholarpedia.org: Frank Hoppensteadt’s “[Predator-Prey
-    Model](https://resources.saylor.org/archived/wp-content/uploads/2011/06/MA221-4.1.2.pdf)”
+    Model](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/MA221-4.1.2.pdf)”
     (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA221-4.1.2-Frank-Hoppensteadts.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA221-4.1.2-Frank-Hoppensteadts.epub)  
       
      Instructions: Click on the link above and read the entire
     article.  
@@ -117,13 +117,13 @@ Upon successful completion of this unit, the student will be able to:
     ODEs”: “3.3 Linear Systems of ODEs”**
     Link: Jirka.org: Jiri Lebl’s *Notes on Diffy Qs*: “Systems of ODEs”:
     [“3.3 Linear Systems of
-    ODEs”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/MA221-book.pdf)
+    ODEs”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/MA221-book.pdf)
     (PDF)  
         
      Also available in:  
      [HTML](http://www.jirka.org/diffyqs/htmlver/diffyqs.html)  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA221-book-Notes-on-Diffy-Qs-Jiri-Lebl.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA221-book-Notes-on-Diffy-Qs-Jiri-Lebl.epub)  
         
      Instructions: Click on the link above and then click on the link
     that says “Download the book as PDF.”  Go to page 99.   Please read
@@ -143,7 +143,7 @@ id="4.3"></span> 
     a First Order System”**
     Link: Wikipedia’s Ordinary Differential Equation: “[Reduction to a
     First Order
-    System](https://resources.saylor.org/archived/wp-content/uploads/2011/06/MA221-4.3.pdf)”
+    System](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/MA221-4.3.pdf)”
     (PDF)  
         
      Instructions: Click on the link above.  Read the sections titled:
@@ -162,13 +162,13 @@ id="4.3"></span> 
     Link: MIT: Professor Arthur Mattuck’s *18.03 Notes and Exercises*:
     “Exercises”: “Linear Systems”: “[4B. General Systems; Elimination;
     Using
-    Matrices](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Linear-Systems-Questions.pdf)”
+    Matrices](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Linear-Systems-Questions.pdf)”
     (PDF)  
                                                        
      Instructions: Please click on the PDF linked above. Work with
     exercises 4B-1 and 4B-2 on page 1.   When you finish, please check
     your answers to these exercises with “[Linear Systems
-    Solutions](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Linear-Systems-Solutions.pdf).”  
+    Solutions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Linear-Systems-Solutions.pdf).”  
         
      Terms of Use: Please respect the copyright and terms of use
     displayed on the webpages above.
@@ -179,13 +179,13 @@ id="4.4"></span> 
     ODEs”: “3.4 Eingenvalue Method”**
     Link: Jirka.org: Jiri Lebl’s *Notes on Diffy Qs*: “Systems of ODEs”:
     [“3.4 Eingenvalue
-    Method”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/MA221-book.pdf)
+    Method”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/MA221-book.pdf)
     (PDF)  
         
      Also available in:  
      [HTML](http://www.jirka.org/diffyqs/htmlver/diffyqs.html)  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA221-book-Notes-on-Diffy-Qs-Jiri-Lebl.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA221-book-Notes-on-Diffy-Qs-Jiri-Lebl.epub)  
         
      Instructions: Click on the link above and then click on the link
     that says “Download the book as PDF.”  Go to page 99.   Please read
@@ -203,13 +203,13 @@ id="4.4"></span> 
     Link: MIT: Professor Arthur Mattuck’s *18.03 Notes and Exercises*:
     “Exercises”: “Linear Systems”: “[4B. General Systems; Elimination;
     Using
-    Matrices](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Linear-Systems-Questions.pdf)”
+    Matrices](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Linear-Systems-Questions.pdf)”
     (PDF)  
         
      Instructions: Please click on the PDF linked above. Work with
     exercises 4B-4, 4B-5, and 4B-6 on pages 1 and 2.   When you finish,
     please check your answers for these exercises with “[Linear Systems
-    Solutions.”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Linear-Systems-Solutions.pdf)  
+    Solutions.”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Linear-Systems-Solutions.pdf)  
         
      Terms of Use: Please respect the copyright and terms of use
     displayed on the webpages above.
@@ -218,13 +218,13 @@ id="4.4"></span> 
     “Exercises”: “Linear Systems”: “4C. Eingenvalues and Eigenvectors”**
     Link: MIT: Professor Arthur Mattuck’s *18.03 Notes and Exercises*:
     “Exercises”: “Linear Systems”: “[4C. Eingenvalues and
-    Eigenvectors](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Linear-Systems-Questions.pdf)”
+    Eigenvectors](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Linear-Systems-Questions.pdf)”
     (PDF)  
         
      Instructions: Click on the PDF linked above and go to page 2.  Work
     with exercises 4C-1 and 4C-5.   When you finish, please check your
     answers to these exercises with “[Linear Systems
-    Solutions](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Linear-Systems-Solutions.pdf).”  
+    Solutions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Linear-Systems-Solutions.pdf).”  
         
      Terms of Use: Please respect the copyright and terms of use
     displayed on the webpages above.
@@ -234,13 +234,13 @@ id="4.4"></span> 
     Eingenvalues”**
     Link: MIT: Professor Arthur Mattuck’s *18.03 Notes and Exercises*:
     “Exercises”: “Linear Systems”: “[4D. Complex and Repeated
-    Eingenvalues](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Linear-Systems-Questions.pdf)”
+    Eingenvalues](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Linear-Systems-Questions.pdf)”
     (PDF)  
         
      Instructions: Please click on the PDF linked above, and go to page
     3.  Work with exercises 4D-1, 4D-2, and 4D-3.   When you finish,
     please check your answers to these exercises with “[Linear Systems
-    Solutions](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Linear-Systems-Solutions.pdf).”  
+    Solutions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Linear-Systems-Solutions.pdf).”  
         
      Terms of Use: Please respect the copyright and terms of use
     displayed on the webpages above.
@@ -266,14 +266,14 @@ id="4.4"></span> 
     Systems”**
     Link: MIT: Professor Arthur Mattuck’s *18.03 Notes and Exercises*:
     “Exercises”: “Linear Systems”: “[4I. Inhomogeneous
-    Systems](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Linear-Systems-Questions.pdf)”
+    Systems](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Linear-Systems-Questions.pdf)”
     (PDF)  
         
      Instructions: Please click on the PDF linked above and go to page
     6.  Work with exercises 4I-1, 4I-2, 4I-3, 4I-4, and 4I-5.   When you
     finish, please check your answers to these exercises with “[Linear
     Systems
-    Solutions](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Linear-Systems-Solutions.pdf).”  
+    Solutions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-Linear-Systems-Solutions.pdf).”  
         
      Terms of Use: Please respect the copyright and terms of use
     displayed on the webpages above.

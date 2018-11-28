@@ -39,7 +39,7 @@ to:
     Course Notes: “Chapter 9”**
     Link: University of British Columbia: Leah Keshet’s *Math 102 Course
     Notes*: [“Chapter
-    9”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/MA221-2.1.1.pdf)
+    9”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/MA221-2.1.1.pdf)
     (PDF)  
         
      Instructions: Click on the link above, then click on the link for
@@ -107,7 +107,7 @@ to:
     Supplemental Notes 5: “Growth and Decay”**
     Link: Clinton Community College: Elizabeth Wood’s *Math 155
     Supplemental Notes 5*: “[Growth and
-    Decay](https://resources.saylor.org/archived/wp-content/uploads/2011/06/MA121-2.1.3.pdf)”
+    Decay](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/MA121-2.1.3.pdf)”
     (PDF)  
         
      Instructions: Read from the beginning to the end of “Example 1.”  
@@ -126,13 +126,13 @@ id="2.2"></span> 
     “3.1 Introduction to Systems of ODEs”**
     Link: Jirka.org: Jiri Lebl’s Notes on Diffy Qs: “Chapter 3”: [“3.1
     Introduction to Systems of ODEs
-    “](https://resources.saylor.org/archived/wp-content/uploads/2011/06/MA221-book.pdf)
+    “](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/MA221-book.pdf)
     (PDF)  
         
      Also available in:  
      [HTML](http://www.jirka.org/diffyqs/htmlver/diffyqs.html)  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA221-book-Notes-on-Diffy-Qs-Jiri-Lebl.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA221-book-Notes-on-Diffy-Qs-Jiri-Lebl.epub)  
         
      Instructions: Click on the link above and then click on the link
     titled “Download the book as PDF.” Go to page 85 and read only pages
@@ -150,13 +150,13 @@ id="2.3"></span> 
     “First Order ODE’s”**
     Link: Jirka.org: Jiri Lebl’s Notes on Diffy Qs: “Chapter 1”: [“First
     Order
-    ODE’s”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/MA221-book.pdf)
+    ODE’s”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/MA221-book.pdf)
     (PDF)  
         
      Also available in:  
      [HTML](http://www.jirka.org/diffyqs/htmlver/diffyqs.html)  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA221-book-Notes-on-Diffy-Qs-Jiri-Lebl.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA221-book-Notes-on-Diffy-Qs-Jiri-Lebl.epub)  
         
      Instructions: Click on the link above and then click on the link
     that says “Download the book as PDF.”  Go to page 13.   Please read
@@ -216,13 +216,13 @@ id="2.4"></span> 
     ODE’s”: “1.2 Slopes Field”**
     Link: Jirka.org: Jiri Lebl’s *Notes on Diffy Qs*: “First Order
     ODE’s”: [“1.2 Slopes
-    Field”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/MA221-book.pdf)
+    Field”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/MA221-book.pdf)
     (PDF)  
         
      Also available in:  
      [HTML](http://www.jirka.org/diffyqs/htmlver/diffyqs.html)  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA221-book-Notes-on-Diffy-Qs-Jiri-Lebl.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA221-book-Notes-on-Diffy-Qs-Jiri-Lebl.epub)  
       
      Instructions: Click on the link above and then click on the link
     that says “Download the book as PDF.”  Go to page 18.  Read section
@@ -240,7 +240,7 @@ id="2.4"></span> 
     Equations*: Notes and Exercises: “Graphical and Numerical Methods”**
     Link: MIT: Professor Arthur Mattuck’s *18.03 Differential
     Equations:* Notes and Exercises: [“Graphical and Numerical
-    Methods”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Unit-2.4-Reading-Miller-Notes-Graphical-and-Numerical-Methods.pdf)
+    Methods”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MA221-Unit-2.4-Reading-Miller-Notes-Graphical-and-Numerical-Methods.pdf)
     (PDF)  
         
      Instructions: Read the first two pages (Pages 0 and 1) of these
@@ -256,13 +256,13 @@ id="2.4"></span> 
     Link: MIT: Professor Arthur Mattuck’s *18.03 Differential
     Equations:* Notes and Exercises: “First Order ODE’s”: [“1C.
     Graphical and Numerical
-    Methods”](https://resources.saylor.org/archived/wp-content/uploads/2014/04/MA221-Assessments-Mattuck-First-Order-ODEs.pdf)
+    Methods”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/04/MA221-Assessments-Mattuck-First-Order-ODEs.pdf)
     (PDF)  
         
      Instructions: Work through all items in exercise 1C-1 on pages 3
     and 4 of the document.  When you finish, check your work with the
     answers in [“Section 1
-    Solutions”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-First-Order-ODEs-Solutionspdf.pdf),
+    Solutions”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-First-Order-ODEs-Solutionspdf.pdf),
     starting on page 9.   
       
      Terms of Use: Terms of Use: This resource is licensed under a
@@ -293,13 +293,13 @@ id="2.4"></span> 
     ODE’s”: “1.4 Linear Equations and the Integrating Factor”**
     Link: Jirka.org: Jiri Lebl’s *Notes on Diffy Qs*: “First Order
     ODE’s”: [“1.4 Linear Equations and the Integrating
-    Factor”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/MA221-book.pdf)
+    Factor”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/MA221-book.pdf)
     (PDF)  
         
      Also available in:  
      [HTML](http://www.jirka.org/diffyqs/htmlver/diffyqs.html)  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA221-book-Notes-on-Diffy-Qs-Jiri-Lebl.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA221-book-Notes-on-Diffy-Qs-Jiri-Lebl.epub)  
         
      Instructions: Click on the link above and the click on the link
     that says “Download the book as PDF.”  Go to page 27.   Please read
@@ -324,7 +324,7 @@ id="2.4"></span> 
     Link: Furman University: Dan Sloughter’s *Difference Equations to
     Differential Equations: *“Chapter 8: Differential Equations”:
     [“Section 8.3: First Order Differential
-    Equations”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/MA221-2.5-8.3.pdf)
+    Equations”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/MA221-2.5-8.3.pdf)
     (PDF)  
         
      Instructions: Click on the link above, scroll down to “Chapter 8:
@@ -347,7 +347,7 @@ id="2.4"></span> 
     Link: Furman University: Dan Sloughter’s *Difference Equations to
     Differential Equations:*“Chapter 8: Differential Equations”:
     “Section 8.3: First Order Differential Equations”:
-    [“Problems”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/MA221-2.5-8.3.pdf)
+    [“Problems”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/MA221-2.5-8.3.pdf)
     (PDF)  
         
      Instructions: Click on the link above and scroll down to “Chapter
@@ -420,13 +420,13 @@ id="2.4"></span> 
     First-Order Methods”**
     Link: MIT: Professor Arthur Mattuck’s *18.03 Notes and Exercises*:
     “Exercises”: “First Order ODE’s”: “[1B. Standard First-Order
-    Methods](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-First-Order-ODEs-Solutionspdf.pdf)”
+    Methods](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-First-Order-ODEs-Solutionspdf.pdf)”
     (PDF)  
         
      Instructions: Please, click on the PDF link above.  Work with all
     items in exercise 1B-1 and 1B-2 on page 1.  When you are finished,
     please compare your answers for these exercises with “[Section 1
-    Solutions](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-First-Order-ODEs-Solutionspdf.pdf)”.  
+    Solutions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-First-Order-ODEs-Solutionspdf.pdf)”.  
         
      Terms of Use: Please respect the copyright and terms of use
     displayed on the webpages above.
@@ -474,7 +474,7 @@ id="2.4"></span> 
     Link: Furman University: Dan Sloughter’s *Difference Equations to
     Differential Equations:*“Chapter 8: Differential Equations”:
     [“Section 8.2: Separation of
-    Variables”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/MA221-2.7.pdf)
+    Variables”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/MA221-2.7.pdf)
     (PDF)  
         
      Instructions: Click on the link above, scroll down to “Chapter 8:
@@ -495,7 +495,7 @@ id="2.4"></span> 
     Link: Furman University: Dan Sloughter’s *Difference Equations to
     Differential Equations:*“Chapter 8: Differential Equations”:
     “Section 8.2: Separation of Variables”:
-    [“Problems”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/MA221-2.7.pdf)
+    [“Problems”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/MA221-2.7.pdf)
     (PDF)  
         
      Instructions: Click on the link above and scroll down to “Chapter
@@ -535,13 +535,13 @@ id="2.4"></span> 
     Separation of Variables”**
     Link: MIT: Professor Arthur Mattuck’s *18.03 Notes and Exercises*:
     “Exercises”: “First Order ODE’s”: “[1A. Introduction; Separation of
-    Variables](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-First-Order-ODEs-Questions.pdf)”
+    Variables](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-First-Order-ODEs-Questions.pdf)”
     (PDF)  
         
      Instructions: Please click on the PDF above. Work through all items
     in exercises 1A-3, 1A-4, and 1A-5 on page 1.  When you finish please
     check your answers for these exercises against “[Section 1
-    Solutions](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-First-Order-ODEs-Solutionspdf.pdf)” 
+    Solutions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-First-Order-ODEs-Solutionspdf.pdf)” 
 
 **2.8 Bernoulli Equations** <span id="2.8"></span> 
 -   **Reading: Lamar University: Paul Dawkins’ Differential Equations:
@@ -566,13 +566,13 @@ id="2.4"></span> 
     ODE’s”: “1.5 Substitution”: “1.5.2 Bernoulli Equations”**
     Link: Jirka.org: Jiri Lebl’s *Notes on Diffy Qs*: “First Order
     ODE’s”: “1.5 Substitution”: [“1.5.2 Bernoulli
-    Equations”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/MA221-book.pdf)
+    Equations”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/MA221-book.pdf)
     (PDF)  
         
      Also available in:  
      [HTML](http://www.jirka.org/diffyqs/htmlver/diffyqs.html)  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/MA221-book-Notes-on-Diffy-Qs-Jiri-Lebl.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/MA221-book-Notes-on-Diffy-Qs-Jiri-Lebl.epub)  
         
      Instructions: Click on the link above and then click on the link
     titled “Download the book as PDF.”  Go to page 33.   Please read the
@@ -595,7 +595,7 @@ id="2.4"></span> 
     First-Order Methods”**
     Link: MIT: Professor Arthur Mattuck’s *18.03 Notes and Exercises*:
     “Exercises”: “First Order ODE’s”: “[1B. Standard First-Order
-    Methods](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-First-Order-ODEs-Questions.pdf)”
+    Methods](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-First-Order-ODEs-Questions.pdf)”
     (PDF)  
         
      Instructions: Click on the link above and then scroll down to the
@@ -603,7 +603,7 @@ id="2.4"></span> 
     First-order ODE’s.”  Work with the two items in exercise 1B-9 on
     page 2.  When you finish, please compare your answers to these
     exercises with “[Section 1
-    Solutions](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-First-Order-ODEs-Solutionspdf.pdf)”  
+    Solutions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-First-Order-ODEs-Solutionspdf.pdf)”  
         
      Terms of Use: Please respect the copyright and terms of use
     displayed on the webpages above.
@@ -686,13 +686,13 @@ id="2.4"></span> 
     First-Order Methods”**
     Link: MIT: Professor Arthur Mattuck’s *18.03 Notes and Exercises*:
     “Exercises”: “First Order ODE’s”: “[1B. Standard First-Order
-    Methods](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-First-Order-ODEs-Questions.pdf)”
+    Methods](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-First-Order-ODEs-Questions.pdf)”
     (PDF)  
         
      Instructions: Please click on above PDF link. Work with all the
     items in exercise 1B-3 on page 2.  When you finish, please check
     your answers for these exercises with “[Section 1
-    Solutions](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-First-Order-ODEs-Solutionspdf.pdf).”   
+    Solutions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/MA221-Assessments-Mattuck-First-Order-ODEs-Solutionspdf.pdf).”   
         
      Terms of Use: Please respect the copyright and terms of use
     displayed on the webpages above.
